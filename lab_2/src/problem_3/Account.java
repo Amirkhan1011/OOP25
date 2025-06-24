@@ -43,6 +43,6 @@ public class Account {
 		System.out.println(toString());
 	}
 	public String toString() {
-		return "Account number: " + getAccNumber() + "\nBalance: " + getBalance();
+		return "Account number: " + accNumber + "\nBalance: " + balance;
 	}
 }
