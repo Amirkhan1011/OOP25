@@ -1,0 +1,3 @@
+kbtu kbtu KBTU Kbtu
+Read a UTF-8 text file (input.txt) line‑by‑line with BufferedReader. Buffered buffering cuts down disk
+calls and is highly recommended for text processing
